@@ -22,7 +22,7 @@ export default function First () {
                         </div>
                         <div className="w-5/6 text-[16px] font-[500]">
                             <p className="text-center">
-                                As a new player, you will receive a plot of land, a strawberry seedling, and three water cans to get started. Click "Play Now" to begin your adventure!
+                                As a new player, you will receive a plot of land, a strawberry seedling, and three water cans to get started. Click {"Play Now"} to begin your adventure!
                             </p>
                         </div>
                         <Link href={'/shop'}>

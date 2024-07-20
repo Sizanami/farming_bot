@@ -14,7 +14,7 @@ const OptionBtn = () => {
           alt="btn_option"
           className="w-auto h-auto md:w-[300px]"
         />
-        <p className="absolute  md:text-md text-sm md:text-6xl md:ml-[90px] font-semibold ml-5">
+        <p className="absolute  md:text-md text-sm md:text-6xl hover:text-green-500 md:ml-[90px] font-semibold ml-5">
           Plot
         </p>
       </Link>
@@ -26,7 +26,7 @@ const OptionBtn = () => {
           alt="btn_option"
           className="w-auto h-auto md:w-[300px]"
         />
-        <p className="absolute  md:text-md text-sm md:text-6xl md:ml-[20px] font-semibold  ml-2">
+        <p className="absolute  md:text-md text-sm md:text-6xl hover:text-green-500 md:ml-[20px] font-semibold  ml-2">
           Seedlings
         </p>
       </Link>
@@ -38,7 +38,7 @@ const OptionBtn = () => {
           alt="btn_option"
           className="w-auto h-auto md:w-[300px]"
         />
-        <p className="absolute  md:text-md text-sm md:text-6xl md:ml-[90px] font-semibold ml-5">
+        <p className="absolute  md:text-md text-sm md:text-6xl hover:text-green-500 md:ml-[90px] font-semibold ml-5">
           Cans
         </p>
       </Link>
@@ -50,7 +50,7 @@ const OptionBtn = () => {
           alt="btn_option"
           className="w-auto h-auto md:w-[300px]"
         />
-        <p className="absolute  md:text-md text-sm md:text-6xl md:ml-[60px] font-semibold ml-5">
+        <p className="absolute  md:text-md text-sm md:text-6xl hover:text-green-500 md:ml-[60px] font-semibold ml-5">
           Tokens
         </p>
       </Link>
